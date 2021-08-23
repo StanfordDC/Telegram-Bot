@@ -8,4 +8,8 @@ Telegram bot built with Python
 
 2. Type /newbot to create a new bot
 
-3. Copy the HTTP API
+3. Copy the token
+
+   ![](bot.jpg)
+   
+4. Paste the token
