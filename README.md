@@ -12,4 +12,8 @@ Telegram bot built with Python
 
    ![](bot.jpg)
    
-4. Paste the token
+4. Paste the token inside
+
+   ![](token.jpg)
+   
+5. Run the code
